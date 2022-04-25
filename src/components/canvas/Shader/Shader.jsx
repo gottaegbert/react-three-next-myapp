@@ -10,7 +10,7 @@ import fragment from './glsl/shader.frag'
 const ColorShiftMaterial = shaderMaterial(
   {
     time: 0,
-    color: new THREE.Color(0.05, 0.0, 0.025),
+    color: new THREE.Color(0.0, 0.09, 0.08),
   },
   vertex,
   fragment

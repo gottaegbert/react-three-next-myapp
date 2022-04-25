@@ -17,6 +17,7 @@ const BoxComponent = ({ route }) => {
   // Return the view, these are regular Threejs elements expressed in JSX
   return (
     <>
+      <color attach="background" args={['black']} />
       <mesh
         ref={mesh}
         onClick={() => router.push(route)}

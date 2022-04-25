@@ -3,7 +3,7 @@ export default function Instructions() {
     <div
       className='absolute max-w-lg px-4 py-2 text-sm shadow-xl pointer-events-none select-none md:text-base top-8 left-1/2 text-gray-50 transform -translate-x-1/2'
       style={{
-        backgroundColor: 'rgb(27, 30, 40)',
+        backgroundColor: 'rgb(76, 98, 83)',
         maxWidth: 'calc(100% - 28px)',
       }}
     >
